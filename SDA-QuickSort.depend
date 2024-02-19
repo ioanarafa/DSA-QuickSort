@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691840026 source:c:\users\user\desktop\sda-quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
